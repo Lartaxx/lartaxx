@@ -1,5 +1,5 @@
 ## Hello i'm David 👋 !
-I'm french **JS** & **PHP** developer, I am originally from the south of France, but I now live in Paris.
+I'm french **JS** & **PHP** developer, I am originally from the south of France
 
 ### You want to know more about me ?
 
