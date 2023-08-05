@@ -1,6 +1,6 @@
 ## Hello i'm David 👋 !
 I'm french **JS** & **PHP** developer, I am originally from the south of France <br>
-I'm also, old military
+I'm also, old military & old 42 student
 
 ### You want to know more about me ?
 
