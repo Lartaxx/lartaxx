@@ -1,6 +1,8 @@
-## Hello i'm David 👋 !
+## Hello, I'm David RolePlay 👋 !
 I'm french **JS** & **PHP** developer, I am originally from the south of France <br>
-I'm also, old military & old 42 student
+I'm also, old military & old 42 student.
+
+I love working on [Beggin](https://beggin.fr) with [@MaaxIT](https://github.com/MaaxIT).
 
 ### You want to know more about me ?
 
