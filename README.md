@@ -2,7 +2,7 @@
 I'm french **JS** & **PHP** developer, I am originally from the south of France <br>
 I'm also, old military & old 42 student.
 
-I love working on [Beggin](https://beggin.fr) with [@MaaxIT](https://github.com/MaaxIT).
+I love working on [Beggin](https://beggin.fr) with [@Wasied](https://github.com/Wasied).
 
 ### You want to know more about me ?
 
