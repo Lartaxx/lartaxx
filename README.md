@@ -8,7 +8,7 @@ I love working on [Beggin](https://beggin.fr) with [@Wasied](https://github.com/
 
 * 💻Backend developer
     - PHP ( Laravel )
-    - NodeJS ( DiscordJS, Express [...] )
+    - NodeJS ( DiscordJS, Express, React, Inertia.js [...] )
   ```php
     $lartaxx = User::where(["username" => "Lartaxx", "type" => "Backend developer"])->first();
   ```
